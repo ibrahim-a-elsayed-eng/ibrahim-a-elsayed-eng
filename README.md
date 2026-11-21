@@ -1,0 +1,52 @@
+<div align="center">
+
+# Ibrahim Ahmed El Sayed
+
+**Junior Linux & Cloud Support Engineer | Building Secure, Cost-Conscious Labs on AWS**
+
+![AWS](https://img.shields.io/badge/AWS-VPC%20%7C%20IAM%20%7C%20EC2%20%7C%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%26%20Bash-0EA5E9?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-10B981?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Containers-Docker%20Compose-0F172A?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## About Me
+
+- Hands-on **Cloud & DevOps** learner focused on **AWS**, **Linux System Administration**, **Network Security**, and **Infrastructure as Code**.
+- Every lab I build follows a **security-first** and **Zero-Spend (`$0`)** discipline: least-privilege IAM, private loopback/SSH-tunnel access, full documentation with architecture diagrams, and clean resource teardown.
+- Currently preparing for **AWS Certified Cloud Practitioner** while expanding practical projects across AWS Networking, Terraform, and Linux automation.
+
+---
+
+## Core Technical Stack
+
+| Domain | Tools & Services |
+| :--- | :--- |
+| **AWS Cloud** | VPC, Subnets, Internet Gateway, EC2, EBS (`gp3`), S3, IAM (ABAC / Least Privilege), Budgets, CloudShell |
+| **Linux & Scripting** | Ubuntu, Bash (`set -euo pipefail`), `systemd`, `cron`, `logrotate`, `ufw`, SSH Hardening |
+| **IaC & Containers** | Terraform (`main.tf`), Docker, Docker Compose, Loopback Port Binding, SSH Local Port Forwarding |
+| **Automation & Web** | n8n Workflows, Telegram Bot API, Git & GitHub, GitHub Pages |
+
+---
+
+## Featured Hands-On Projects
+
+| Project | Focus | Highlights |
+| :--- | :--- | :--- |
+| [**n8n-private-rss-alerts**](https://github.com/ibrahim-a-elsayed-eng/n8n-private-rss-alerts) | Containers & Security | Self-hosted `n8n` on EC2 bound to `127.0.0.1:5678`, SSH tunnel access only, keyword-filtered NASA RSS alerts to Telegram |
+| [**terraform-aws-vpc**](https://github.com/ibrahim-a-elsayed-eng/terraform-aws-vpc) | Infrastructure as Code | Declarative AWS VPC (`10.0.0.0/16`) and public subnet (`10.0.1.0/24`) provisioned with Terraform |
+| [**aws-iam-abac-security**](https://github.com/ibrahim-a-elsayed-eng/aws-iam-abac-security) | Cloud Security | IAM Attribute-Based Access Control isolating `Env=development` EC2 control from `Env=production` |
+| [**week-01-iam-security-baseline**](https://github.com/ibrahim-a-elsayed-eng/week-01-iam-security-baseline) | Account Governance | Root MFA lockdown, `cloud-admin` IAM user, Zero-Spend Budget guardrails, and custom S3 ABAC policy |
+| [**VPC-**](https://github.com/ibrahim-a-elsayed-eng/VPC-) | Cloud Networking | Custom AWS VPC, Subnet, and Internet Gateway built via both AWS Console and CloudShell CLI |
+| [**linux-basics-project**](https://github.com/ibrahim-a-elsayed-eng/linux-basics-project) | Linux Administration | 7 progressive labs covering CLI, permissions, process control, networking, log rotation, and server hardening |
+| [**nextwork-s3-hisoka-portfolio**](https://github.com/ibrahim-a-elsayed-eng/nextwork-s3-hisoka-portfolio) | Static Hosting | Portfolio initially tested on Amazon S3 (`eu-north-1`) and migrated to GitHub Pages for `$0` hosting |
+
+---
+
+## Connect
+
+- **Portfolio:** [ibrahim-a-elsayed-eng.github.io/nextwork-s3-hisoka-portfolio](https://ibrahim-a-elsayed-eng.github.io/nextwork-s3-hisoka-portfolio/)
+- **Email:** `ibrahim.a.elsayed.eng@gmail.com`
