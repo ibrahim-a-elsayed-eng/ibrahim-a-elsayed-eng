@@ -49,4 +49,5 @@
 ## Connect
 
 - **Portfolio:** [ibrahim-a-elsayed-eng.github.io/nextwork-s3-hisoka-portfolio](https://ibrahim-a-elsayed-eng.github.io/nextwork-s3-hisoka-portfolio/)
-- **Email:** `ibrahim.a.elsayed.eng@gmail.com`
+- **LinkedIn:** [linkedin.com/in/ibrahim-ahmed-elsayed-5a2aa4446](https://www.linkedin.com/in/ibrahim-ahmed-elsayed-5a2aa4446)
+- **Email:** [ibrahim.a.elsayed.eng@gmail.com](mailto:ibrahim.a.elsayed.eng@gmail.com)
