@@ -17,7 +17,7 @@
 
 - Hands-on **Cloud & DevOps** learner focused on **AWS**, **Linux System Administration**, **Network Security**, and **Infrastructure as Code**.
 - Every lab I build follows a **security-first** and **Zero-Spend (`$0`)** discipline: least-privilege IAM, private loopback/SSH-tunnel access, full documentation with architecture diagrams, and clean resource teardown.
-- Currently preparing for **AWS Certified Cloud Practitioner** while expanding practical projects across AWS Networking, Terraform, and Linux automation.
+- Focused on hands-on AWS networking, security, and Terraform IaC labs — targeting **AWS Solutions Architect Associate (`SAA-C03`)** alongside practical DevOps projects.
 
 ---
 
