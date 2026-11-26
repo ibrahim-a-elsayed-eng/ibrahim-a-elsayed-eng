@@ -40,7 +40,7 @@
 | [**terraform-aws-vpc**](https://github.com/ibrahim-a-elsayed-eng/terraform-aws-vpc) | Infrastructure as Code | Declarative AWS VPC (`10.0.0.0/16`) and public subnet (`10.0.1.0/24`) provisioned with Terraform |
 | [**aws-iam-abac-security**](https://github.com/ibrahim-a-elsayed-eng/aws-iam-abac-security) | Cloud Security | IAM Attribute-Based Access Control isolating `Env=development` EC2 control from `Env=production` |
 | [**week-01-iam-security-baseline**](https://github.com/ibrahim-a-elsayed-eng/week-01-iam-security-baseline) | Account Governance | Root MFA lockdown, `cloud-admin` IAM user, Zero-Spend Budget guardrails, and custom S3 ABAC policy |
-| [**VPC-**](https://github.com/ibrahim-a-elsayed-eng/VPC-) | Cloud Networking | Custom AWS VPC, Subnet, and Internet Gateway built via both AWS Console and CloudShell CLI |
+| [**aws-vpc-networking-series**](https://github.com/ibrahim-a-elsayed-eng/aws-vpc-networking-series) | Cloud Networking | 9-part AWS VPC series (`2/9` done): VPC, Subnets, IGW, Route Tables, Security Groups, NACLs & EC2 Global View |
 | [**linux-basics-project**](https://github.com/ibrahim-a-elsayed-eng/linux-basics-project) | Linux Administration | 7 progressive labs covering CLI, permissions, process control, networking, log rotation, and server hardening |
 | [**nextwork-s3-hisoka-portfolio**](https://github.com/ibrahim-a-elsayed-eng/nextwork-s3-hisoka-portfolio) | Static Hosting | Portfolio initially tested on Amazon S3 (`eu-north-1`) and migrated to GitHub Pages for `$0` hosting |
 
