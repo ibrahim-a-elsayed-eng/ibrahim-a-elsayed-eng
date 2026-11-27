@@ -41,7 +41,7 @@
 | [**week-01-iam-security-baseline**](https://github.com/ibrahim-a-elsayed-eng/week-01-iam-security-baseline) | Account Governance | Root MFA lockdown, `cloud-admin` IAM user, Zero-Spend Budget guardrails, and custom S3 ABAC policy |
 | [**aws-vpc-networking-series**](https://github.com/ibrahim-a-elsayed-eng/aws-vpc-networking-series) | Cloud Networking | 9-part AWS VPC series (`2/9` done): VPC, Subnets, IGW, Route Tables, Security Groups, NACLs & EC2 Global View |
 | [**linux-basics-project**](https://github.com/ibrahim-a-elsayed-eng/linux-basics-project) | Linux Administration | 7 progressive labs covering CLI, permissions, process control, networking, log rotation, and server hardening |
-| [**ibrahim-a-elsayed-eng.github.io**](https://github.com/ibrahim-a-elsayed-eng/ibrahim-a-elsayed-eng.github.io) | Portfolio & Hosting | Cloud & DevOps portfolio originally tested on Amazon S3 (`eu-north-1`, [`nextwork-s3-hisoka-portfolio`](https://github.com/ibrahim-a-elsayed-eng/nextwork-s3-hisoka-portfolio)) and migrated to GitHub Pages for `$0` hosting |
+| [**ibrahim-a-elsayed-eng.github.io**](https://github.com/ibrahim-a-elsayed-eng/ibrahim-a-elsayed-eng.github.io) | Portfolio & Hosting | Cloud & DevOps portfolio originally built & tested on Amazon S3 (`eu-north-1`) and consolidated on GitHub Pages for `$0` ongoing hosting |
 
 ---
 
